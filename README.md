@@ -22,7 +22,6 @@ pip install -r requirements.txt
 
 ### 🧰 Output 
 #Sample of the dataset
-<img width="640" height="184" alt="Sample images" src="https://github.com/user-attachments/assets/62e669f0-cae1-4902-b322-a5103afa42cd" />
+
 
 #Grad-CAM output
-<img width="783" height="2157" alt="Output" src="https://github.com/user-attachments/assets/f527fea2-21a3-4335-8bc1-d3c50c71b9ed" />
