@@ -1,11 +1,21 @@
-# Grad-CAM-Visualization-Demo-TF-Flowers-CNN-
-This project demonstrates how to apply Grad-CAM (Gradient-weighted Class Activation Mapping) on a Convolutional Neural Network (CNN) trained with the TensorFlow Flowers dataset. It highlights which image regions influenced the model’s prediction — making deep learning more interpretable and explainable.
+# 🌸 Grad-CAM Visualization Demo (TF-Flowers CNN)
 
-The notebook includes:
+### 🔍 Overview
+This project shows how to use **Grad-CAM (Gradient-weighted Class Activation Mapping)** to visualize the focus area of a Convolutional Neural Network (CNN) trained on the **TensorFlow Flowers** dataset.
 
-1. Loading and resizing the TF-Flowers dataset (5 classes)
-2. Building and training a simple CNN model
-3. Computing Grad-CAM heatmaps
-4. Visualizing the focus areas overlayed on test images
+Grad-CAM helps explain *where* the model is looking when making predictions — a key part of **Explainable AI (XAI)**.
 
-Designed for students, educators, and developers learning Explainable AI (XAI).
+---
+
+### 📦 Features
+- Loads and preprocesses the **TF-Flowers** dataset (5 flower classes)
+- Builds a **simple CNN** for image classification
+- Computes **Grad-CAM heatmaps** for model predictions
+- Visualizes both original and highlighted images side-by-side
+
+---
+
+### 🧰 Requirements
+Install dependencies using:
+```bash
+pip install -r requirements.txt
