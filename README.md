@@ -14,14 +14,20 @@ Grad-CAM helps explain *where* the model is looking when making predictions — 
 - Visualizes both original and highlighted images side-by-side
 
 ---
+### 🧰 Output 
+#Sample of the dataset
+<img width="640" height="184" alt="Sample images" src="https://github.com/user-attachments/assets/7aaf09bb-b610-4885-b73b-b22be30d2642" />
+
+
+#Grad-CAM output
+<img width="783" height="2157" alt="Output" src="https://github.com/user-attachments/assets/e36ca747-c1cf-4215-ad28-93d95a7f37ea" />
+
+
+
 
 ### 🧰 Requirements
 Install dependencies using:
 ```bash
 pip install -r requirements.txt
 
-### 🧰 Output 
-#Sample of the dataset
 
-
-#Grad-CAM output
